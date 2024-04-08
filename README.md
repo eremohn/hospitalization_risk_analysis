@@ -6,7 +6,7 @@ Este repositorio contiene un proyecto de Machine Learning centrado en la clasifi
 
 El proyecto incluye los siguientes componentes:
 
-1. **Script Python:** El archivo `hospitalization_classification.ipynb` contiene el código Python utilizado para realizar el análisis de datos y el modelado predictivo.
+1. **Notebook Jupyter:** El archivo `hospitalization_classification.ipynb` contiene el código Python utilizado para realizar el análisis de datos y el modelado predictivo.
 2. **Base de Datos:** El conjunto de datos utilizado para el proyecto se encuentra en el archivo `BBDD_Hospitalizacion.xlsx`. Este archivo se convierte a formato CSV (`BBDD_Hospitalizacion.csv`) para su procesamiento.
 3. **Documentación y Resultados:** Se proporciona una descripción detallada de la metodología utilizada, los resultados obtenidos y las conclusiones del proyecto en el archivo `Informe_Hospitalizacion.pdf`.
 
@@ -28,7 +28,4 @@ El proyecto requiere las siguientes bibliotecas de Python:
 
 ## Uso
 
-Para ejecutar el script Python y reproducir el análisis, asegúrate de tener instaladas las bibliotecas requeridas y ejecuta el archivo `hospitalization_classification.py`.
-
-```bash
-python hospitalization_classification.py
+Para ejecutar el notebook y reproducir el análisis, asegúrate de tener instaladas las bibliotecas requeridas y abre el archivo `hospitalization_classification.ipynb` en Jupyter Notebook o JupyterLab.
